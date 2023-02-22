@@ -1,3 +1,3 @@
 # RNCM PRiSM Gesture Tracker Demo
 
-Live deployment on Cloudeflare Pages available [here](https://gesturetracker.pages.dev/).
+Live deployment on Cloudflare Pages available [here](https://gesturetracker.pages.dev/).
