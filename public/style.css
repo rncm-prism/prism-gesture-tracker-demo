@@ -1,0 +1,55 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+.nomargin {
+  margin: 0px;
+}
+
+.hide {
+  display: none;
+}
+
+/* See https://stackoverflow.com/a/35902636/795131 */
+.disabled {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+/* Footer */
+
+.footer,
+.push {
+  height: 4em;
+}
+
+.footer {
+  border-top: 1px solid #E4E4E4;
+  line-height: 2em;
+  margin-top: 15px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+#attribution {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#attribution > span {
+  display: inline-block;
+  color: rgba(0,0,0,.54) !important;
+}

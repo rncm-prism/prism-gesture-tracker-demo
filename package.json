@@ -1,0 +1,49 @@
+{
+  "name": "prism-gesture-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Christopher Melen",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@fontsource/roboto": "^4.5.7",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.4",
+    "@spotify/basic-pitch": "^1.0.1",
+    "@tensorflow/tfjs-node": "^3.20.0",
+    "babel-loader": "^8.2.5",
+    "babel-preset-react": "^6.24.1",
+    "bull": "^4.10.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "lodash.debounce": "^4.0.8",
+    "lodash.shuffle": "^4.2.0",
+    "lodash.unzip": "^3.4.0",
+    "meyda": "^5.5.1",
+    "ml-knn": "^3.0.0",
+    "music-metadata": "^7.12.3",
+    "nanoid": "^3.3.4",
+    "node-mic": "^1.0.1",
+    "node-wav": "^0.0.2",
+    "osc-min": "^1.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "yinjs": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/bull": "^3.15.9"
+  }
+}
