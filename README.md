@@ -18,4 +18,4 @@ The full code for the production app will be released by RNCM PRiSM shortly. The
 
 Lead Developer: [Dr Christopher Melen](https://www.rncm.ac.uk/people/christopher-melen/) (PRiSM Research Software Engineer).
 
-With invaluable contributions from [Professor David De Roure](https://www.rncm.ac.uk/research/research-centres-rncm/prism/prism-blog/meet-the-prism-technical-director/), [Dr Bofan Ma](https://www.rncm.ac.uk/research/research-centres-rncm/prism/prism-news/dr-bofan-ma-appointed-rncm-prism-post-doctoral-research-associate/), and [Damon Holzborn](https://music.columbia.edu/bios/damon-holzborn).
+With invaluable contributions from [Professor David De Roure](https://www.rncm.ac.uk/research/research-centres-rncm/prism/prism-blog/meet-the-prism-technical-director/), [Dr Bofan Ma](https://www.rncm.ac.uk/research/research-centres-rncm/prism/prism-news/dr-bofan-ma-appointed-rncm-prism-post-doctoral-research-associate/), George Lewis and [Damon Holzborn](https://music.columbia.edu/bios/damon-holzborn).
